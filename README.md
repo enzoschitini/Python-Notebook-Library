@@ -3,7 +3,7 @@ This guide introduces the use of Python for data analysis programming, with a fo
 
 ## Dominando Python: Fundamentos e Práticas Avançadas
 
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Python%20Notebook%20Library.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Python%20Notebook%20Library.png" alt="ebac-logo">
 
 ---
 
@@ -50,7 +50,7 @@ A "Python Notebook Library" oferece uma base sólida em Python e prepara você p
 Python é uma das linguagens de programação mais versáteis e amplamente utilizadas no mundo da tecnologia. De scripts simples a sistemas complexos, Python oferece uma gama de ferramentas e técnicas para desenvolver soluções eficientes e elegantes. Este material é projetado para guiá-lo desde os conceitos básicos até técnicas mais avançadas, proporcionando uma compreensão abrangente e prática da linguagem. Se você está começando agora ou deseja aprimorar suas habilidades, este guia é seu caminho para se tornar proficiente em Python.
 
 ---
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Vari%C3%A1veis%20%26%20Tipos%20de%20Dados.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Vari%C3%A1veis%20%26%20Tipos%20de%20Dados.png" alt="ebac-logo">
 
 ---
 
@@ -905,7 +905,7 @@ for palavra in linha10:
        imprimindo_resposta.append(palavra)
 
 print(imprimindo_resposta)
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Estruturas%20de%20Dados.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Estruturas%20de%20Dados.png" alt="ebac-logo">
 
 ---
 
@@ -1164,7 +1164,7 @@ wifi_disponiveis.append(rede)
 rede = {'nome': 'uai-fi', 'senha': 'r3d3'}
 wifi_disponiveis.append(rede)
 print(wifi_disponiveis)
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Fluxo%20Condicional%20%26%20Repeti%C3%A7%C3%A3o.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Fluxo%20Condicional%20%26%20Repeti%C3%A7%C3%A3o.png" alt="ebac-logo">
 
 ---
 
@@ -1458,7 +1458,7 @@ for numero in numeros:
   else:
     continue
     print(f'O numero {numero} é impar')
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Arquivos%20%26%20Fun%C3%A7%C3%B5es.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Arquivos%20%26%20Fun%C3%A7%C3%B5es.png" alt="ebac-logo">
 
 ---
 
@@ -1724,7 +1724,7 @@ else:
   w = 50
 
 print(x)
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Programa%C3%A7%C3%A3o%20Funcional.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Programa%C3%A7%C3%A3o%20Funcional.png" alt="ebac-logo">
 
 ---
 
@@ -1941,7 +1941,7 @@ def ok():
     print("Nome")
 
 o = [ok() for _ in range(0, 5)]
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos.png" alt="ebac-logo">
 
 ---
 
@@ -2200,7 +2200,7 @@ usp = Universidade(nome='Universidade de São Paulo')
 andre = Estudante(nome='Andre Perez', idade=30, documento='123', universidade=usp)
 print(andre)
 print(andre.universidade.nome)
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/M%C3%B3dulos%20%26%20Pacotes.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/M%C3%B3dulos%20%26%20Pacotes.png" alt="ebac-logo">
 
 ---
 
@@ -2408,7 +2408,7 @@ for key, value in data.items():
     cdi = float(cdi)
 
 print(cdi)"""
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Tratamento%20de%20Erros.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Tratamento%20de%20Erros.png" alt="ebac-logo">
 
 ---
 
@@ -2633,7 +2633,7 @@ except Exception as exc:
   print(exc)
 else:
   print(total_a_pagar)
-<img src="https://raw.githubusercontent.com/enzoschitini/repository-data-science-library/main/Python%20Notebook/img/Scripting.png" alt="ebac-logo">
+<img src="https://raw.githubusercontent.com/enzoschitini/Python-Notebook-Library/refs/heads/main/img/Scripting.png" alt="ebac-logo">
 
 ---
 
